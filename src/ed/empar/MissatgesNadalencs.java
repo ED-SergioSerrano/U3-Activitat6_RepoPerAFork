@@ -197,7 +197,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila4PC6() {
-		
+		System.out.print("Hola soy Sergio.");
 	}
 	
 	// FILA 5
